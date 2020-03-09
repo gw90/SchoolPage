@@ -4,6 +4,7 @@ The only code which I wrote is in `/src` most of the html was copied and modifie
 
 The specific files that I edited rather than simply got with the template should be made clear by the presence of automatically generated backup files with a tilde (`~`) at the end of the filename which I have chosen not to .gitignore.
 
+Also, the component for the stars in the ratings was used from [https://www.npmjs.com/package/react-star-rating-component](https://www.npmjs.com/package/react-star-rating-component).
 
 ## Everything Below was automatically generated
 
