@@ -1,3 +1,10 @@
+This project uses ReactJS which allows me to write javascript which is "compiled" and send to the browser in a humanly incomprehensible manner, so this repository is here to show you what I actually did.
+
+The only code which I wrote is in `/src` most of the html was copied and modified from [bulma.io](https://bulma.io). Bulma is responsible for 100% of the CSS and 90% of the html/JSX.
+
+
+## Everything Below was automatically generated
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
