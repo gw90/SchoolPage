@@ -2,6 +2,8 @@ This project uses ReactJS which allows me to write javascript which is "compiled
 
 The only code which I wrote is in `/src` most of the html was copied and modified from [bulma.io](https://bulma.io). Bulma is responsible for 100% of the CSS and 90% of the html/JSX.
 
+The specific files that I edited rather than simply got with the template should be made clear by the presence of automatically generated backup files with a tilde (`~`) at the end of the filename which I have chosen not to .gitignore.
+
 
 ## Everything Below was automatically generated
 
